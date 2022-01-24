@@ -1,7 +1,7 @@
-#include <iostream>
+#include <iostream>		//м╥нд╪Ч
 using namespace std;
 
-int main1()
+int main01()
 {
 	cout << "hello world" << endl;
 

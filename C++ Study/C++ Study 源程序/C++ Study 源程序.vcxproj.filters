@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01 C++书写Hello World.cpp">
+    <ClCompile Include="01 Hello World.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="3变量.cpp">
+    <ClCompile Include="03 变量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
