@@ -1,0 +1,12 @@
+﻿  01 Hello World.cpp
+  04 变量.cpp
+  05 常量.cpp
+  06 关键字.cpp
+  07 标识符命名规则.cpp
+  08 数据类型-整型.cpp
+d:\git 仓库管理\c_studying\c++ study-utf8\c++ study 源程序\08 数据类型-整型.cpp(6): warning C4309: “初始化”: 截断常量值
+  09 sizeof 关键字.cpp
+  10 数据类型-实型.cpp
+d:\git 仓库管理\c_studying\c++ study-utf8\c++ study 源程序\10 数据类型-实型.cpp(19): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码...
+  C++ Study 源程序.vcxproj -> D:\Git 仓库管理\C_Studying\C++ Study-UTF8\x64\Debug\C++ Study 源程序.exe
