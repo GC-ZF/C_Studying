@@ -24,6 +24,9 @@
     <ClCompile Include="05 常量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="06 关键字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="07 标识符命名规则.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -34,12 +37,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="10 数据类型-实型.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="11 字符型.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="06 关键字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

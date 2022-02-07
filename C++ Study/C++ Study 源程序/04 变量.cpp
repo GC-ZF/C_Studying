@@ -1,12 +1,12 @@
-#include <iostream>		//å¤´æ–‡ä»¶
+#include <iostream>		//Í·ÎÄ¼ş
 using namespace std;
-
 
 int main04()
 {
-	//å˜é‡åˆ›å»ºçš„è¯­æ³•:æ•°æ®ç±»å‹ å˜é‡å = åˆå§‹å€¼
+	//±äÁ¿´´½¨µÄÓï·¨:Êı¾İÀàĞÍ ±äÁ¿Ãû = ³õÊ¼Öµ
 	int a = 10;
 	cout << "a = " << a << endl;
+
 	system("pause");
 	return 0;
 }

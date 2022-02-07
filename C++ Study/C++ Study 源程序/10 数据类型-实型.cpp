@@ -1,25 +1,26 @@
-ï»¿#include <iostream>
+#include <iostream>
 using namespace std;
 
-int main()
+int main10()
 {
-	//é»˜è®¤æƒ…å†µä¸‹ï¼Œè¾“å‡ºä¸€ä¸ªå°æ•°ï¼Œæ˜¾ç¤º6ä½æœ‰æ•ˆæ•°å­—
-	float f1 = 3.1415926f; //ä¸åŠ fé»˜è®¤æ˜¯doubleç±»å‹ã€‚åˆ æ‰fï¼Œé¼ æ ‡æ”¾åœ¨3.14å¯ä»¥æŸ¥çœ‹ç±»å‹
+	//Ä¬ÈÏÇé¿öÏÂ£¬Êä³öÒ»¸öĞ¡Êı£¬ÏÔÊ¾6Î»ÓĞĞ§Êı×Ö
+	float f1 = 3.1415926f; //²»¼ÓfÄ¬ÈÏÊÇdoubleÀàĞÍ¡£É¾µôf£¬Êó±ê·ÅÔÚ3.14¿ÉÒÔ²é¿´ÀàĞÍ
 	double d1 = 3.1415926;
 
 	cout << "f1=" << f1 << endl;
 	cout << "d1=" << d1 << endl;
 
-	//ç»Ÿè®¡floatå’Œdoubleå ç”¨å†…å­˜ç©ºé—´
-	cout << "floatæ‰€å å†…å­˜ç©ºé—´ä¸º:" << sizeof(f1) << "å­—èŠ‚" << endl;
-	cout << "doubleæ‰€å å†…å­˜ç©ºé—´ä¸º:" << sizeof(d1) << "å­—èŠ‚" << endl;
+	//Í³¼ÆfloatºÍdoubleÕ¼ÓÃÄÚ´æ¿Õ¼ä
+	cout << "floatËùÕ¼ÄÚ´æ¿Õ¼äÎª:" << sizeof(f1) << "×Ö½Ú" << endl;
+	cout << "doubleËùÕ¼ÄÚ´æ¿Õ¼äÎª:" << sizeof(d1) << "×Ö½Ú" << endl;
 
-	//ç§‘å­¦è®¡æ•°æ³•
+	//¿ÆÑ§¼ÆÊı·¨
 	float f2 = 3e2;		//3*10^2
 	float f3 = 3e-2;	//3*10^-2
 
 	cout << "f2=" << f2 << endl;
 	cout << "f3=" << f3 << endl;
+
 	system("pause");
 	return 0;
 }

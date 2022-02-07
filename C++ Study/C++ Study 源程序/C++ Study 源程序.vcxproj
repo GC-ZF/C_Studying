@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{0F9EDB28-3720-484B-92AD-EAD9AB827526}</ProjectGuid>
+    <ProjectGuid>{78B4A50F-3725-400D-84D7-CB9B0DDCA800}</ProjectGuid>
     <RootNamespace>CStudy源程序</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -131,7 +131,6 @@
     <ClCompile Include="08 数据类型-整型.cpp" />
     <ClCompile Include="09 sizeof 关键字.cpp" />
     <ClCompile Include="10 数据类型-实型.cpp" />
-    <ClCompile Include="11 字符型.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

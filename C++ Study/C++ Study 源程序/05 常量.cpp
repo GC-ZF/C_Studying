@@ -1,18 +1,18 @@
 #include <iostream>
 using namespace std;
 
-//1.#define å®å¸¸é‡
+//1.#define ºê³£Á¿
 #define day 7
 
 int main05()
 {
-	//day = 8;	//æŠ¥é”™ï¼Œå®å¸¸é‡ä¸å¯ä»¥ä¿®æ”¹
-	cout <<"ä¸€å‘¨æœ‰"<< day << "å¤©"<<endl;
+	//day = 8;	//±¨´í£¬ºê³£Á¿²»¿ÉÒÔĞŞ¸Ä
+	cout << "Ò»ÖÜÓĞ" << day << "Ìì" << endl;
 
-	//2.constä¿®é¥°å˜é‡
+	//2.constĞŞÊÎ±äÁ¿
 	const int month = 12;
-	//month = 13;	//æŠ¥é”™,constä¿®é¥°çš„å˜é‡ä¹Ÿç§°ä¸ºå¸¸é‡
-	cout << "ä¸€å¹´æœ‰" << month << "ä¸ªæœˆ"<<endl;
+	//month = 13;	//±¨´í,constĞŞÊÎµÄ±äÁ¿Ò²³ÆÎª³£Á¿
+	cout << "Ò»ÄêÓĞ" << month << "¸öÔÂ" << endl;
 
 	system("pause");
 	return 0;
