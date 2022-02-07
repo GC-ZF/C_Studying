@@ -1,3 +1,3 @@
-﻿  08 数据类型-整型.cpp
-d:\git 仓库管理\c_studying\c++ study\c++ study 源程序\08 数据类型-整型.cpp(6): warning C4309: “初始化”: 截断常量值
+﻿  10 数据类型-实型.cpp
+d:\git 仓库管理\c_studying\c++ study\c++ study 源程序\10 数据类型-实型.cpp(19): warning C4305: “初始化”: 从“double”到“float”截断
   C++ Study 源程序.vcxproj -> D:\Git 仓库管理\C_Studying\C++ Study\x64\Debug\C++ Study 源程序.exe

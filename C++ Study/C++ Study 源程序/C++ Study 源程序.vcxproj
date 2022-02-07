@@ -126,10 +126,12 @@
     <ClCompile Include="01 Hello World.cpp" />
     <ClCompile Include="04 变量.cpp" />
     <ClCompile Include="05 常量.cpp" />
-    <ClCompile Include="06关键字.cpp" />
+    <ClCompile Include="06 关键字.cpp" />
     <ClCompile Include="07 标识符命名规则.cpp" />
     <ClCompile Include="08 数据类型-整型.cpp" />
     <ClCompile Include="09 sizeof 关键字.cpp" />
+    <ClCompile Include="10 数据类型-实型.cpp" />
+    <ClCompile Include="11 字符型.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

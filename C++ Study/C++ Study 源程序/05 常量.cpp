@@ -7,7 +7,7 @@ using namespace std;
 int main05()
 {
 	//day = 8;	//报错，宏常量不可以修改
-	cout << day << "天"<<endl;
+	cout <<"一周有"<< day << "天"<<endl;
 
 	//2.const修饰变量
 	const int month = 12;
