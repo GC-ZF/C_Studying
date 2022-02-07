@@ -5,15 +5,15 @@ int main09()
 {
 	int num = 1;
 
-	cout << "num ������ռ�ڴ�ռ�Ϊ:" << sizeof(num) << "�ֽ�" << endl;
+	cout << "num 变量所占内存空间为:" << sizeof(num) << "字节" << endl;
 
-	cout << "short ������ռ�ڴ�ռ�Ϊ:" << sizeof(short) << "�ֽ�" << endl;
+	cout << "short 类型所占内存空间为:" << sizeof(short) << "字节" << endl;
 
-	cout << "int ������ռ�ڴ�ռ�Ϊ:" << sizeof(int) << "�ֽ�" << endl;
+	cout << "int 类型所占内存空间为:" << sizeof(int) << "字节" << endl;
 
-	cout << "long ������ռ�ڴ�ռ�Ϊ:" << sizeof(long) << "�ֽ�" << endl;
+	cout << "long 类型所占内存空间为:" << sizeof(long) << "字节" << endl;
 
-	cout << "long long ������ռ�ڴ�ռ�Ϊ:" << sizeof(long long) << "�ֽ�" << endl;
+	cout << "long long 类型所占内存空间为:" << sizeof(long long) << "字节" << endl;
 
 	system("pause");
 	return 0;

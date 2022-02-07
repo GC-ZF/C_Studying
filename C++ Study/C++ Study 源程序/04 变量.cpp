@@ -1,10 +1,10 @@
-#include <iostream>		//Í·ÎÄ¼ş
+#include <iostream>		//å¤´æ–‡ä»¶
 using namespace std;
 
 
 int main04()
 {
-	//±äÁ¿´´½¨µÄÓï·¨:Êı¾İÀàĞÍ ±äÁ¿Ãû = ³õÊ¼Öµ
+	//å˜é‡åˆ›å»ºçš„è¯­æ³•:æ•°æ®ç±»å‹ å˜é‡å = åˆå§‹å€¼
 	int a = 10;
 	cout << "a = " << a << endl;
 	system("pause");

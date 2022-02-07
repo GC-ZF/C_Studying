@@ -1,4 +1,4 @@
-#include <iostream>		//ͷ�ļ�
+#include <iostream>		//头文件
 using namespace std;
 
 int main01()
