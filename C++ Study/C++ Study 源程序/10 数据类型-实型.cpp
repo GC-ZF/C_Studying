@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main10()
+int main()
 {
 	//默认情况下，输出一个小数，显示6位有效数字
 	float f1 = 3.1415926f; //不加f默认是double类型。删掉f，鼠标放在3.14可以查看类型

@@ -1,4 +1,0 @@
-﻿  10 数据类型-实型.cpp
-d:\git 仓库管理\c_studying\c++ study-utf8\c++ study 源程序\10 数据类型-实型.cpp(19): warning C4305: “初始化”: 从“double”到“float”截断
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
-D:\Git 仓库管理\C_Studying\C++ Study-UTF8\Debug\C++ Study 源程序.exe : fatal error LNK1120: 1 个无法解析的外部命令
