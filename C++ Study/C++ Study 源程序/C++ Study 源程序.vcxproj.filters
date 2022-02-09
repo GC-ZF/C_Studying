@@ -39,5 +39,14 @@
     <ClCompile Include="10 数据类型-实型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11 数据类型-字符型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12 数据类型-转义字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13 字符串型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
