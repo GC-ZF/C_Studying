@@ -48,5 +48,86 @@
     <ClCompile Include="13 字符串型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="14 布尔类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15 数据的输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16 算术运算符-加减乘除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17 算数运算符-取模.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18 算数运算符-递增递减.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19 赋值运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20 运算符-比较运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21 逻辑运算符-非.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="999 eg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22 逻辑运算符-与.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23 逻辑运算符-或.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
