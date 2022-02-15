@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main25()
+int main()
 {
 
 

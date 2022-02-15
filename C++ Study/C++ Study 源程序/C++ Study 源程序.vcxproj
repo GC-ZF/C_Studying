@@ -144,9 +144,9 @@
     <ClCompile Include="21 逻辑运算符-非.cpp" />
     <ClCompile Include="22 逻辑运算符-与.cpp" />
     <ClCompile Include="23 逻辑运算符-或.cpp" />
-    <ClCompile Include="24 .cpp" />
-    <ClCompile Include="25 .cpp" />
-    <ClCompile Include="26 .cpp" />
+    <ClCompile Include="24  选择结构-单行if语句.cpp" />
+    <ClCompile Include="25  选择结构-多行if语句.cpp" />
+    <ClCompile Include="26  选择结构-多条件if语句.cpp" />
     <ClCompile Include="27 .cpp" />
     <ClCompile Include="28 .cpp" />
     <ClCompile Include="29 .cpp" />
