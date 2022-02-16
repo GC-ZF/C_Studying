@@ -81,15 +81,6 @@
     <ClCompile Include="23 逻辑运算符-或.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="28 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="29 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="30 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="31 .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -127,6 +118,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="27  选择结构-嵌套if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28  选择结构案例-三只小猪称体重.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29  选择结构-三目运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30  选择结构-switch语句.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

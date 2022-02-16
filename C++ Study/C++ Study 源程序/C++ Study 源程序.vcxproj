@@ -148,9 +148,9 @@
     <ClCompile Include="25  选择结构-多行if语句.cpp" />
     <ClCompile Include="26  选择结构-多条件if语句.cpp" />
     <ClCompile Include="27  选择结构-嵌套if语句.cpp" />
-    <ClCompile Include="28 .cpp" />
-    <ClCompile Include="29 .cpp" />
-    <ClCompile Include="30 .cpp" />
+    <ClCompile Include="28  选择结构案例-三只小猪称体重.cpp" />
+    <ClCompile Include="29  选择结构-三目运算符.cpp" />
+    <ClCompile Include="30  选择结构-switch语句.cpp" />
     <ClCompile Include="31 .cpp" />
     <ClCompile Include="32 .cpp" />
     <ClCompile Include="33 .cpp" />

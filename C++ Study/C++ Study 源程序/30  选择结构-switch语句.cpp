@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int main28()
+int main()
 {
+	//switchÓï¾ä
 
 
 	system("pause");

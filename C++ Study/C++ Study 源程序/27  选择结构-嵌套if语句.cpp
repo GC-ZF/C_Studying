@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main27()
 {
 	/*提示用户输入一个高考考试分数，根据分数做如下判断
 	分数如果大于600分视为考上一本，大于500分考上二本，大于400分考上三本，其余视为未考上本科；
@@ -22,15 +22,15 @@ int main()
 	{
 		if (score > 700)
 		{
-			cout << "北大" << endl;
+			cout << "您能考入北大" << endl;
 		}
 		else if (score > 650)
 		{
-			cout << "清华" << endl;
+			cout << "您能考入清华" << endl;
 		}
 		else
 		{
-			cout << "人大" << endl;
+			cout << "您能考入人大" << endl;
 		}
 	}
 	else if (score > 500)
