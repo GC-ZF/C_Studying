@@ -81,18 +81,6 @@
     <ClCompile Include="23 逻辑运算符-或.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="31 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="32 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="33 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="34 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="35 .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -127,6 +115,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="30  选择结构-switch语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31 循环结构-while循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32  循环结构案例-猜数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33  循环结构-dowhile循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34  循环结构案例-水仙花数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
