@@ -72,61 +72,106 @@
     <ClCompile Include="21 逻辑运算符-非.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="999 eg.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="22 逻辑运算符-与.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="23 逻辑运算符-或.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="35 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="36 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="37 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="38 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="39 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="24  选择结构-单行if语句.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="25  选择结构-多行if语句.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="26  选择结构-多条件if语句.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="27  选择结构-嵌套if语句.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="28  选择结构案例-三只小猪称体重.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="29  选择结构-三目运算符.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="30  选择结构-switch语句.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="31 循环结构-while循环.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="32  循环结构案例-猜数字.cpp">
+    <ClCompile Include="35 循环结构-for循环.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="33  循环结构-dowhile循环.cpp">
+    <ClCompile Include="36 循环结构案例-敲桌子 .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="34  循环结构案例-水仙花数.cpp">
+    <ClCompile Include="41 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39 跳转语句-break语句 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40 跳转语句-continue语句 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24 选择结构-单行if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25 选择结构-多行if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26 选择结构-多条件if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27 选择结构-嵌套if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28 选择结构案例-三只小猪称体重.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29 选择结构-三目运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30 选择结构-switch语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34 循环结构案例-水仙花数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33 循环结构-dowhile循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32 循环结构案例-猜数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37 嵌套循环案例-星图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38 嵌套循环案例-乘法口诀表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
