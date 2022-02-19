@@ -166,8 +166,8 @@
     <ClCompile Include="43 一维数组-数组名.cpp" />
     <ClCompile Include="44 一维数组案例-五只小猪称体重.cpp" />
     <ClCompile Include="45 一维数组案例-数组元素逆置.cpp" />
-    <ClCompile Include="54 .cpp" />
-    <ClCompile Include="55 .cpp" />
+    <ClCompile Include="54 函数的声明.cpp" />
+    <ClCompile Include="55 函数的分文件编写.cpp" />
     <ClCompile Include="46 一维数组案例-冒泡排序.cpp" />
     <ClCompile Include="47 二维数组的定义.cpp" />
     <ClCompile Include="48 二维数组-数组名.cpp" />
@@ -175,7 +175,7 @@
     <ClCompile Include="50 函数的定义.cpp" />
     <ClCompile Include="51 函数的调用.cpp" />
     <ClCompile Include="52 函数-值传递.cpp" />
-    <ClCompile Include="53 函数-样式.cpp" />
+    <ClCompile Include="53 函数-常见样式.cpp" />
     <ClCompile Include="56 .cpp" />
     <ClCompile Include="57 .cpp" />
     <ClCompile Include="58 .cpp" />
@@ -192,6 +192,10 @@
     <ClCompile Include="69 .cpp" />
     <ClCompile Include="70 .cpp" />
     <ClCompile Include="71 .cpp" />
+    <ClCompile Include="swap.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
