@@ -87,49 +87,10 @@
     <ClCompile Include="36 循环结构案例-敲桌子 .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="41 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="42 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="43 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="39 跳转语句-break语句 .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="40 跳转语句-continue语句 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="44 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="45 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="46 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="47 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="48 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="49 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="50 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="51 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="52 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="53 .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="54 .cpp">
@@ -172,6 +133,93 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="38 嵌套循环案例-乘法口诀表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41 跳转语句-goto语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42 一维数组的定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43 一维数组-数组名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44 一维数组案例-五只小猪称体重.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45 一维数组案例-数组元素逆置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46 一维数组案例-冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="71 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="67 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="68 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47 二维数组的定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48 二维数组-数组名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49 二维数组案例-考试成绩统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50 函数的定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51 函数的调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52 函数-值传递.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53 函数-样式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

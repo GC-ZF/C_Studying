@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main52()
+int main67()
 {
 
 
