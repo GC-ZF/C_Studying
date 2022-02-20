@@ -147,18 +147,6 @@
     <ClCompile Include="46 一维数组案例-冒泡排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="56 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="57 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="58 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="59 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="60 .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -223,6 +211,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56 指针的定义和使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57 指针所占内存空间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58 空指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59 野指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

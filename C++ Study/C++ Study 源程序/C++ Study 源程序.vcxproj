@@ -176,10 +176,10 @@
     <ClCompile Include="51 函数的调用.cpp" />
     <ClCompile Include="52 函数-值传递.cpp" />
     <ClCompile Include="53 函数-常见样式.cpp" />
-    <ClCompile Include="56 .cpp" />
-    <ClCompile Include="57 .cpp" />
-    <ClCompile Include="58 .cpp" />
-    <ClCompile Include="59 .cpp" />
+    <ClCompile Include="56 指针的定义和使用.cpp" />
+    <ClCompile Include="57 指针所占内存空间.cpp" />
+    <ClCompile Include="58 空指针.cpp" />
+    <ClCompile Include="59 野指针.cpp" />
     <ClCompile Include="60 .cpp" />
     <ClCompile Include="61 .cpp" />
     <ClCompile Include="62 .cpp" />
