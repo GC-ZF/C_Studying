@@ -147,42 +147,6 @@
     <ClCompile Include="46 一维数组案例-冒泡排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="60 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="61 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="62 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="63 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="64 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="71 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="65 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="66 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="67 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="68 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="69 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="70 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="47 二维数组的定义.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -223,6 +187,42 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="59 野指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60 const修饰指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61 指针和数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62 指针和函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63 指针数组函数案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64 结构体定义和使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65 结构体数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66 结构体指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="67 结构体嵌套结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="68 结构体做函数参考.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69 结构体中const使用场景.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70 结构体案例1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="71 结构体案例2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

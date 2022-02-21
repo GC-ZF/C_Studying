@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main58()
 {
 	//空指针
 	//1.空指针用于给指针变量进行初始化
