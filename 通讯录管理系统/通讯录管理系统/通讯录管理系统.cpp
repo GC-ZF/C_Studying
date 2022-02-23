@@ -146,7 +146,108 @@ void deletePerson(Addressbooks * abs)
 //4、查找指定联系人信息
 void findPerson(Addressbooks * abs)
 {
+	cout << "请输入您要查找的联系人: " << endl;
+	string name;
+	cin >> name;
 
+	int ret;
+	ret=isExist(abs, name);
+	if (ret != -1)
+	{
+		cout << "姓名: " << abs->personArray[ret].m_Name << "\t";
+		cout << "年龄: " << abs->personArray[ret].m_Age << "\t";
+		cout << "性别: " << (abs->personArray[ret].m_Sex == 1 ? "男" : "女") << "\t";
+		cout << "手机号: " << abs->personArray[ret].m_Phone << "\t";
+		cout << "家庭住址: " << abs->personArray[ret].m_Addr << endl;
+	}
+	else
+	{
+		cout << "联系人不存在" << endl;
+	}
+	system("pause"); //按任意键继续
+	system("cls");	//清屏操作
+}
+
+//5、修改指定联系人信息
+void modifyPerson(Addressbooks * abs)
+{
+	cout << "请输入您要修改的联系人" << endl;
+	string name;
+	cin >> name;
+
+	int ret=isExist(abs,name);
+	if (ret!=-1)	//找到指定联系人
+	{
+		string name; //姓名
+		cout << "请输入姓名" << endl;
+		cin >> name;
+		abs->personArray[ret].m_Name = name;
+
+		int sex; //性别：1男 2女
+		cout << "请输入性别: (1 -- 男 2 -- 女)" << endl;
+		while (true)
+		{
+			cin >> sex;
+			if (sex == 1 || sex == 2)
+			{
+				//输入正确，退出循环
+				abs->personArray[ret].m_Sex = sex;
+				break;
+			}
+			else
+				cout << "输入有误，请重新输入" << endl;
+		}
+
+		int age; //年龄
+		cout << "请输入年龄" << endl;
+		cin >> age;
+		abs->personArray[ret].m_Age = age;
+
+		string phone; //电话
+		cout << "请输入联系电话" << endl;
+		cin >> phone;
+		abs->personArray[ret].m_Phone = phone;
+
+		string addr; //住址
+		cout << "请输入家庭住址" << endl;
+		cin >> addr;
+		abs->personArray[ret].m_Addr = addr;
+	}
+	else //未找到联系人
+	{
+		cout << "联系人不存在" << endl;
+	}
+	system("pause"); //按任意键继续
+	system("cls");	//清屏操作
+}
+
+//6、清空所有联系人
+void cleanPerson(Addressbooks * abs)
+{
+	cout << "是否确定清空？ 1 -- 清空 2 -- 退出" << endl;
+	int select;
+	cin >> select;
+	while (true)
+	{
+		if (select == 1 || select == 2)
+		{
+			if (select == 1)
+			{
+				abs->m_Size = 0;	//将当前记录联系人数量置为0，做逻辑情况操作
+				cout << "通讯录已清空" << endl;
+				break;
+			}
+			else
+				break;
+		}
+		else
+		{
+			cout << "输入有误,请重新输入" << endl;
+		}
+	}
+
+	system("pause");
+	system("cls");
 }
 //菜单界面
 void showMenu()
@@ -191,10 +292,10 @@ int main()
 			findPerson(&abs);
 			break;
 		case 5:	//5.修改联系人
-
+			modifyPerson(&abs);
 			break;
 		case 6:	//6.清空联系人
-
+			cleanPerson(&abs);
 			break;
 		case 0:	//0.退出通讯录
 			cout << "欢迎下次使用" << endl;
