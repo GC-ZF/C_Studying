@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="85 全局区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="86 栈区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="87 堆区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88 new操作符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="89 引用的基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="90 引用的注意事项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="91 引用做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="92 引用做函数返回值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="130 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="127 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="128 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="129 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="131  .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="132 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="133 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="134 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="135 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="136 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="137 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="138 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="139 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="140 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="141 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="142 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="143 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="144 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="145 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="146 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="93 引用的本质.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="94 常量引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="95 函数默认参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="96 函数占位参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="97 函数重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="98 函数重载注意事项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="99 封装的意义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100 封装案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="101 封装的权限控制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="102 struct 和 class区别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="103 成员属性设置为私有.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="104 封装案例-立方体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="105 封装案例-圆.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="106 构造函数和析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="107 构造函数的分类及调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="108 拷贝构造函数调用时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="109 构造函数调用原则.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="110 深拷贝和浅拷贝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="111 初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="112 类对象作为类成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="117 const修饰成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="116  空指针调用成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="115 this指针的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="114 成员变量和成员函数分开.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="113 静态成员-静态成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="118 全局函数做友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="119 类做友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="120 成员函数做友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="121 加号运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="122 左移运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="123 递增运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="124 赋值运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="125 关系运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="126 函数调用运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="point.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
