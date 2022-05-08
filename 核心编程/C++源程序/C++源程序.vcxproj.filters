@@ -39,64 +39,7 @@
     <ClCompile Include="92 引用做函数返回值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="130 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="127 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="128 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="129 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="131  .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="132 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="133 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="134 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="135 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="136 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="137 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="138 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="139 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="140 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="141 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="142 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="143 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="144 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="145 .cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="146 .cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="93 引用的本质.cpp">
@@ -205,6 +148,48 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="126 函数调用运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="127 继承基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="128 继承方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="129 继承中的对象模型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="130 继承构造和析构顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="131  继承同名成员处理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="132 继承同名静态成员处理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="133 继承语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="134 继承菱形继承问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="135 多态的基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="137 多态案例1-计算器类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="138 多态纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="139 多态案例2制作饮品.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="140 多态虚析构和纯虚析构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="142 多态案例3-电脑组装具体实现.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
